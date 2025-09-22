@@ -28,15 +28,6 @@
 
 - **weather_app** – _(Python + APIs)_ – [Ver en GitHub](https://github.com/AndresDaB/weather_app)  
 - **saucedemo-test** – _(Python + pruebas / automatización)_ – [Ver en GitHub](https://github.com/AndresDaB/saucedemo-test)  
-
----
-
-## 📊 Mis estadísticas
-
-[![AndresDaB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresDaB&show_icons=true&theme=dark)](https://github.com/AndresDaB)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=AndresDaB&theme=dark)](https://github.com/AndresDaB)  
-
-
 <!--
 **AndresDaB/AndresDaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
