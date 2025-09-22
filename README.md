@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Andrés David García Barrios
+# ¡Hola! 👋 Soy Andrés García
 
 > Disfrutando de la vida, aprendiendo, automatizando y respirando.  
 
